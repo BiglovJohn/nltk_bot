@@ -1,0 +1,138 @@
+{
+    "intents": {
+        "friendly_hello": {
+            "examples": [
+                "привет",
+                "Hi",
+                "Hello",
+                "Hola",
+                "Hi there",
+                "Ghbdtn",
+                "Ciao"
+            ],
+            "responses": [
+                "Hey",
+                "Hi",
+                "Hi there",
+                "Привет",
+                "Hola"
+            ]
+        },
+        "bye": {
+            "examples": [
+                "bye",
+                "good buy",
+                "see you",
+                "see you later",
+                "пока",
+                "Пака",
+                "Adios",
+                "bb"
+            ],
+            "responses": [
+                "Bye",
+                "Good buy",
+                "See you",
+                "See you later",
+                "Пока",
+                "bb"
+            ]
+        },
+        "how_are_you": {
+            "examples": [
+                "how are you",
+                "whats up",
+                "how it is going",
+                "как ты",
+                "как дела"
+            ],
+            "responses": [
+                "Fine",
+                "Good",
+                "It's okay",
+                "Okay",
+                "Good thanks",
+                "Good thnx",
+                "Really good and u?"
+            ]
+        },
+        "who_are_you_ru": {
+            "examples": [
+                "кто ты",
+                "ты кто",
+                "who are you",
+                "who r u"
+            ],
+            "responses": [
+                "Bot, James Bot",
+                "Bot",
+                "I am machine",
+                "I'm Telegram bot"
+            ]
+        },
+        "what are you doing": {
+            "examples": [
+                "чем занимаешься",
+                "что делаешь",
+                "чем занят",
+                "what are you doing"
+            ],
+            "responses": [
+                "Нефтегазовый бизнес, пассивный доход",
+                "Ничем",
+                "Chatting with you",
+                "Stay at home",
+                "At work"
+            ]
+        },
+        "300_joke": {
+            "examples": [
+                "скажи триста",
+                "скажи 300"
+            ],
+            "responses": [
+                "300",
+                "Триста",
+                "Three hundred",
+                "No"
+            ]
+        },
+        "300_answer": {
+            "examples": [
+                "Отсоси у тракториста"
+            ],
+            "responses": [
+                "Очень смешно, ха-ха",
+                "Are you comedian?",
+                "Oh, my mistake"
+            ]
+
+        },
+        "ask_name": {
+            "examples": [
+                "what is your name",
+                "как тебя зовут",
+                "как твое имя"
+            ],
+            "responses": [
+                "У меня нет имени",
+                "I have no name",
+                "My name is John"
+            ]
+        },
+        "mood": {
+            "examples": [
+                "как настроение",
+                "как настрой"
+            ],
+            "responses": [
+                "Настроение норм",
+                "Я счастлив, кручусь спойненько на серваке",
+                "Good vibe"
+            ]
+        }
+    },
+    "failure_phrases": [
+        "Не понял тебя"
+    ]
+}
